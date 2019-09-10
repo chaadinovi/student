@@ -9,11 +9,9 @@ package com.mycompany.gittest;
  *
  * @author chaadi
  */
-public class Main {
+public class Tictactoe {
     public static void main(String[] args) {
-        
-        System.out.println("hello Chaadi");
-        
+        System.out.println("hello tictactoe");
     }
     
 }
